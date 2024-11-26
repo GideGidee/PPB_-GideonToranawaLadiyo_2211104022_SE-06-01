@@ -8,8 +8,8 @@
 ![Screenshot Code](../../cover_tp/logo.png)
 
 **Disusun Oleh:**  
-**Nama Lengkap / NIM**  
-**Kelas**  
+**Gideon Toranawa Ladiyo / 2211104022**  
+**SE0601** 
 
 **Asisten Praktikum:**  
 Muhammad Faza Zulian Gesit Al Barru  
